@@ -2,7 +2,7 @@
 title: ...
 description: Jekyll Theme Minimal Resume
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://floogen.github.io/jekyll-theme-minimal-resume/"
+url: https://floogen.github.io
 
 # User settings
 username: Test Test
